@@ -1,0 +1,11 @@
+print(abs(-100))
+print(max(1,2,3,4,2,1))
+print(int('100'))
+print(float('12.11'))
+print(str(100))
+print(bool(1))
+a = hex(200)
+b = hex(255)
+c = hex(1000)
+print(a,b,c)
+
